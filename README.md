@@ -7,9 +7,9 @@ Eros is a lightweight Android app (3MB) designed to flash firmware on Samsung de
 - **Flash tar and tar.md5**: Flash firmware files directly on a connected Samsung device via OTG.
 - **Download (Dump) PIT Partition**: Retrieve the device’s PIT partition and save it as a file.
 - **Reboot to System**: Reboot the connected device back to the system.
-- **MD5 Check**: Ensure the integrity of firmware files by verifying their MD5 checksum.
+- **MD5 Check**: Checks the integrity of firmware files by verifying their MD5 checksum.
 - **Nand Erase**: Forcefully recreates the device's userdata partition, wiping its data.
-- **Automatic Repartitioning**: Automatically repartitions the device when all 4 firmware files (AP, BL, CP, CSC) are selected. Note: CSC must be used, not Home CSC.
+- **Repartition**: Recreates the device's (modified) partitions.
 - **TFlash Support**: Flash firmware onto the SD card connected to the device, wiping the SD card in the process.
 - **Skip MD5 Check**: Optionally skip MD5 verification to speed up the flashing process.
 - **AB Partition Support**: Choose which partition to flash on A/B partition devices.
