@@ -36,3 +36,7 @@ Eros works with Samsung devices that accept `.tar` and `.tar.md5` firmware files
 
 ## VirusTotal
 Each release should have a link to virustotal.
+
+## Support
+Telegram Channel: https://t.me/ErosMobileTool
+You can join the support chat from within the channel.
