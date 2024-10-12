@@ -24,7 +24,7 @@ Eros is a lightweight Android app (3MB) designed to flash firmware on Samsung de
 
 ## How to Use
 
-1. **Install Eros**: Download and install the app on your Android device or TV (with USB Host API support).
+1. **Install Eros**: Download and install the app on your Android device or TV.
 2. **Connect via OTG**: Connect your Samsung device in Download mode using an OTG adapter.
 3. **Select Firmware**: Load `.tar` or `.tar.md5` files for flashing.
 4. **Flash**: Tap the flash button and Eros will handle the firmware installation.
@@ -32,7 +32,7 @@ Eros is a lightweight Android app (3MB) designed to flash firmware on Samsung de
 
 ## Supported Devices
 
-Eros works with Samsung devices that accept `.tar` and `.tar.md5` firmware files and supports devices with A/B partitions (currently A55 and M55).
+Eros works with Samsung devices that accept `.tar` and `.tar.md5` firmware files and supports devices with A/B partitions (currently A55).
 
 ## VirusTotal
 Each release should have a link to virustotal.
