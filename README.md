@@ -4,6 +4,8 @@ Eros is a lightweight Android app designed to flash firmware on Samsung devices 
 
 ## Features
 
+
+
 - **Flash tar and tar.md5**: Flash firmware files directly on a connected Samsung device via OTG.
 - **Reboot to System**: Reboot the connected device back to the system.
 - **MD5 Check**: Checks the integrity of firmware files by verifying their MD5 checksum.
